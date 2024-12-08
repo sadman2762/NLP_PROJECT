@@ -11,6 +11,9 @@ This application is an AI-powered resume screening system that helps automate th
   - Contact Information (Phone and Email)
   - Skills
   - Education
+## Code Explanation Video
+For a visual overview of the project, watch my video on youtube:  
+**[MY_Project_video](https://youtu.be/QJfhBxznZX8?si=ibTUgZPM7Z1Uzq-W)**
   
 ## Technologies Used
 
